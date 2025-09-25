@@ -1,0 +1,36 @@
+# Install CRAN packages
+install.packages(c(
+  "tidyverse",
+  "modeltime",
+  "modeltime.ensemble",
+  "rstanarm",
+  "bonsai",
+  "bayesplot",
+  "performance",
+  "kableExtra",
+  "ggrepel",
+  "RODBC",
+  "sparklyr",
+  "patchwork",
+  "ggtext",
+  "ggridges",
+  "tidyplots",
+  "ggdark",
+  "ggcorrplot",
+  "ggpmisc",
+  "ggpie",
+  "ggnetwork",
+  "sf",
+  "paletteer",
+  "ggthemes",
+  "gghighlight",
+  "ggraph",
+  "ggstatsplot",
+  "nanoparquet",
+  "pillar",
+  "future",
+  "ggip",
+"CausalImpact"
+))
+
+
