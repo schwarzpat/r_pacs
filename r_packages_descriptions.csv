@@ -1,0 +1,32 @@
+Package,ShortDescription
+tidyverse,Data manipulation and visualization
+modeltime,Time series forecasting framework
+modeltime.ensemble,Ensembling for modeltime forecasts
+rstanarm,Bayesian regression modeling
+bonsai,Tree-based models extension for tidymodels
+bayesplot,Bayesian model visualization tools
+performance,Model performance checks
+kableExtra,Enhanced HTML/LaTeX tables
+ggrepel,Improved text labels in ggplot2
+RODBC,ODBC database connectivity
+sparklyr,Interface to Apache Spark
+patchwork,Combine ggplot2 plots
+ggtext,Advanced text styling in ggplot2
+ggridges,Ridgeline plots for ggplot2
+tidyplots,Lightweight ggplot2 wrapper
+ggdark,Dark themes for ggplot2
+ggcorrplot,Correlation matrix visualization
+ggpmisc,Miscellaneous ggplot2 extensions
+ggpie,Pie charts in ggplot2
+ggnetwork,Network visualization with ggplot2
+sf,Spatial data handling
+paletteer,Collection of color palettes
+ggthemes,Additional ggplot2 themes
+gghighlight,Highlight data in ggplot2
+ggraph,Graph visualization based on ggplot2
+ggstatsplot,Statistical plots with ggplot2
+nanoparquet,Read/write Parquet files
+pillar,Improved tibble column printing
+future,Parallel and async processing
+ggip,IP geolocation visualization
+CausalImpact,Causal inference on time series
